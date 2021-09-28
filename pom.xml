@@ -2,13 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>au.edu.unsw.infs2605</groupId>
-    <artifactId>calculator</artifactId>
+    <artifactId>calculator_solution</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <javafx.version>11</javafx.version>
-        <mainClass>au.edu.unsw.infs2605.calculator.App</mainClass>
-        <moduleName>au.edu.unsw.infs2605.calculator</moduleName>
+        <mainClass>au.edu.unsw.infs2605.calculator_solution.App</mainClass>
+        <moduleName>au.edu.unsw.infs2605.calculator_solution</moduleName>
     </properties>
     <dependencies>
         <dependency>
@@ -104,10 +104,10 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.3</version>
                 <configuration>
-                    <mainClass>au.edu.unsw.infs2605.calculator.App</mainClass>
+                    <mainClass>au.edu.unsw.infs2605.calculator_solution.App</mainClass>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-    <name>calculator</name>
+    <name>calculator_solution</name>
 </project>

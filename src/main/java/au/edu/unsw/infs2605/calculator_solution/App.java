@@ -1,4 +1,4 @@
-package au.edu.unsw.infs2605.calculator;
+package au.edu.unsw.infs2605.calculator_solution;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
